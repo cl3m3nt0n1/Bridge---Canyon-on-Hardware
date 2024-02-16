@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TAJB107K006RNJ")(type "KiCad")(uri "/home/romain/Documents/test/TAJB107K006RNJ.kicad_sym")(options "")(descr ""))
+  (lib (name "TAJA106K016RNJV")(type "KiCad")(uri "/home/romain/Documents/test/Autre/TAJA106K016RNJV.kicad_sym")(options "")(descr ""))
+)

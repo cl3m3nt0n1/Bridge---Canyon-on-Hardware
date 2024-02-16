@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PEC12R-4025F-S0024")(type "Legacy")(uri "/home/romain/Nextcloud/Projet 5A/KiCad/Designs/IO_board/Libraries/PEC12R-4025F-S0024.lib")(options "")(descr ""))
+  (lib (name "R0904NB10KL-25KQ")(type "KiCad")(uri "/home/romain/Nextcloud/Projet 5A/KiCad/Designs/IO_board/Libraries/R0904NB10KL-25KQ/R0904NB10KL-25KQ.kicad_sym")(options "")(descr ""))
+  (lib (name "DF40C-100DS-0.4V_51_")(type "KiCad")(uri "/home/romain/Documents/test/DF40C-100DS-0.4V_51_.kicad_sym")(options "")(descr ""))
+)

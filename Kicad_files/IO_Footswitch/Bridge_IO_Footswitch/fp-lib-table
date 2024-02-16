@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footswitch")(type "KiCad")(uri "/home/romain/Nextcloud/Projet 5A/KiCad/Designs/IO_Footswitch/Libraries/Footswitch.pretty")(options "")(descr ""))
+  (lib (name "Switch2_DPDT")(type "KiCad")(uri "${KIPRJMOD}/Switch2_DPDT.pretty")(options "")(descr ""))
+  (lib (name "TAJB107K006RNJ")(type "KiCad")(uri "/home/romain/Documents/test")(options "")(descr ""))
+  (lib (name "TAJA106K016RNJV")(type "KiCad")(uri "/home/romain/Documents/test/Autre")(options "")(descr ""))
+  (lib (name "Autre")(type "KiCad")(uri "/home/romain/Documents/test/Autre")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PEC12R-4025F-S0024")(type "KiCad")(uri "/home/romain/Nextcloud/Projet 5A/KiCad/Designs/IO_board/Libraries/PEC12R-4025F-S0024/PEC12R-4025F-S0024.pretty")(options "")(descr ""))
+  (lib (name "R0904NB10KL-25KQ")(type "KiCad")(uri "/home/romain/Nextcloud/Projet 5A/KiCad/Designs/IO_board/Libraries/R0904NB10KL-25KQ")(options "")(descr ""))
+  (lib (name "DF40C-100DS-0.4V_51_")(type "KiCad")(uri "/home/romain/Documents/test")(options "")(descr ""))
+)
